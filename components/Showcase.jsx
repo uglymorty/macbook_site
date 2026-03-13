@@ -52,7 +52,7 @@ const Showcase = () => {
                             <p>
                                 A brand-new display engine delivers breathtaking precision, color accuracy, and brightness. And a next-gen GPU with hardware-accelerated ray tracing brings console-level graphics to your fingertips.
                             </p>
-                            <p className="text-primary">Learn more about Apple Intelligence</p>
+                            <p className="text-primary" >Learn more about Apple Intelligence</p>
                         </div>
                     </div>
 
